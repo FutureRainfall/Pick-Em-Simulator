@@ -1,6 +1,9 @@
 # CS2 2024 PGL Major 挑战者组竞猜模拟器
  \- by Future_Rainfall
 
+下载地址：[Pick'Em Simulator V1.0](https://github.com/FutureRainfall/PickEm-Simulator/releases/tag/V1.0 "下载地址")  
+
+
 ## 1. 介绍
 
 ### 模拟本次CS2 2024 PGL Major挑战者组的竞猜。  
@@ -16,6 +19,7 @@
 ## 2. 玩法
 - 根据自己的判断，输入战队编号进行预测
 - 程序将根据实际比赛规则和实际战队排名进行模拟战绩，实力强的队伍更有可能获胜，但也有可能爆冷
-- 正确5个，你币有；不够5个，你币无！   
-  
-### Good Luck!
+- 正确5个，你币有；不够5个，你币无！      
+
+**Good Luck!**
+
